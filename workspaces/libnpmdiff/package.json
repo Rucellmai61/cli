@@ -50,11 +50,11 @@
     "@npmcli/arborist": "^8.0.0",
     "@npmcli/installed-package-contents": "^3.0.0",
     "binary-extensions": "^2.3.0",
-    "diff": "^5.1.0",
-    "minimatch": "^9.0.4",
+    "diff": "^8.0.3",
+    "minimatch": "^10.2.2",
     "npm-package-arg": "^12.0.0",
     "pacote": "^19.0.0",
-    "tar": "^6.2.1"
+    "tar": "^7.5.9"
   },
   "templateOSS": {
     "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
